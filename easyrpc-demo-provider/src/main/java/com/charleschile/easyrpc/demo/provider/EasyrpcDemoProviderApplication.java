@@ -10,4 +10,8 @@ public class EasyrpcDemoProviderApplication {
 		SpringApplication.run(EasyrpcDemoProviderApplication.class, args);
 	}
 
+	// HTTP + JSON的方式来提供通信
+	// 请求是RpcRquest
+	// 响应参数RpcResponse
+
 }
